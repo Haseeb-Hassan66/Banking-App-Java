@@ -81,6 +81,9 @@ Banking-App-Java/
    - Open `Main.java` in your Java IDE.
    - Run the file to start the banking system GUI.
 
+---
+
+
 ### 📸 Screenshots
 
 ### 🔐 Login Page
