@@ -24,17 +24,17 @@ A simple banking system built in Java using Java Swing, AWT, JDBC, and MySQL for
 
 ## 📁 Project Structure
 
+```
 Banking-App-Java/
 │
-├── controller/ # Event handling and control logic
-├── database/ # SQL file to create required MySQL tables
-├── model/ # Data access layer (Database operations)
-├── user/ # User model and logic
-├── view/ # GUI screens (Login, Dashboard, Forms)
-├── screenshots/ # UI screenshots for documentation
-└── Main.java # Application entry point
-
----
+├── controller/     # Event handling and control logic
+├── database/       # SQL file to create required MySQL tables
+├── model/          # Data access layer (Database operations)
+├── user/           # User model and logic
+├── view/           # GUI screens (Login, Dashboard, Forms)
+├── screenshots/    # UI screenshots for documentation
+└── Main.java       # Application entry point
+```
 
 ## 🖥️ How to Run
 
