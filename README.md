@@ -34,7 +34,6 @@ Banking-App-Java/
 ├── screenshots/ # UI screenshots for documentation
 └── Main.java # Application entry point
 
-
 ---
 
 ## 🖥️ How to Run
