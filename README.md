@@ -92,3 +92,9 @@ Banking-App-Java/
 ### 💳 User Dashboard
 ![Dashboard](screenshots/dashboard.PNG)
 
+
+### 🙌 Credits
+Developed by Haseeb Hassan.
+
+### 📄 License
+Released under the MIT License – free to use and modify.
